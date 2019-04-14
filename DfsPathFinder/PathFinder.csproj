@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{65B394FD-6C8D-41A7-A1C3-3FF411C6BBC0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PathFinder</RootNamespace>
+    <AssemblyName>PathFinder</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="vjslib" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Algorithm Test\AStar.cs" />
+    <Compile Include="Algorithm Test\AStarNode.cs" />
+    <Compile Include="Algorithm Test\BFS.cs" />
+    <Compile Include="Algorithm Test\DLite_Heap\Maze.cs" />
+    <Compile Include="Algorithm Test\DLite_Heap\Node.cs" />
+    <Compile Include="Algorithm Test\DFS.cs" />
+    <Compile Include="Algorithm Test\DiagonalDistanceHeuristic.cs" />
+    <Compile Include="Algorithm Test\DLite\KEY.cs" />
+    <Compile Include="Algorithm Test\DLite\Maze.cs" />
+    <Compile Include="Algorithm Test\DLite\Node.cs">
+    </Compile>
+    <Compile Include="Algorithm Test\DStarLite.cs" />
+    <Compile Include="Algorithm Test\DStatLiteNode.cs" />
+    <Compile Include="Algorithm Test\GAAStarLazy.cs" />
+    <Compile Include="Algorithm Test\GAAStarNode.cs" />
+    <Compile Include="Algorithm Test\Heuristic.cs" />
+    <Compile Include="Algorithm Test\Key.cs" />
+    <Compile Include="Algorithm Test\LightCell.cs" />
+    <Compile Include="Algorithm Test\ManhattanDistanceHeuristic.cs" />
+    <Compile Include="Algorithm Test\Maze.cs" />
+    <Compile Include="Algorithm Test\NullHeuristic.cs" />
+    <Compile Include="Algorithm Test\TieBreakingStrategy.cs" />
+    <Compile Include="Cell.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cell.Designer.cs">
+      <DependentUpon>Cell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SimulationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SimulationForm.Designer.cs">
+      <DependentUpon>SimulationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Heap\BinaryHeap.cs" />
+    <Compile Include="Heap\BinaryHeapElement.cs" />
+    <Compile Include="Heap\BinaryHeapException.cs" />
+    <Compile Include="Heap\BinaryHeapTest.cs" />
+    <Compile Include="Heuristic Algorithms\AStar.cs" />
+    <Compile Include="Heuristic Algorithms\AStarNode.cs" />
+    <Compile Include="Heuristic Algorithms\DiagonalDistanceHeuristic.cs" />
+    <Compile Include="Heuristic Algorithms\DLite-Heap\DLiteAlg.cs" />
+    <Compile Include="Heuristic Algorithms\DLite-Heap\Node.cs" />
+    <Compile Include="Heuristic Algorithms\DStarLite.cs" />
+    <Compile Include="Heuristic Algorithms\DLite\KEY.cs" />
+    <Compile Include="Heuristic Algorithms\DLite\Maze.cs" />
+    <Compile Include="Heuristic Algorithms\DLite\Node.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Heuristic Algorithms\DStatLiteNode.cs" />
+    <Compile Include="Heuristic Algorithms\GAAStarLazy.cs" />
+    <Compile Include="Heuristic Algorithms\GAAStarNode.cs" />
+    <Compile Include="Heuristic Algorithms\Heuristic.cs" />
+    <Compile Include="Heuristic Algorithms\Key.cs" />
+    <Compile Include="Heuristic Algorithms\ManhattanDistanceHeuristic.cs" />
+    <Compile Include="Heuristic Algorithms\Maze.cs" />
+    <Compile Include="Heuristic Algorithms\NullHeuristic.cs" />
+    <Compile Include="Heuristic Algorithms\TieBreakingStrategy.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Cell.resx">
+      <DependentUpon>Cell.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimulationForm.resx">
+      <DependentUpon>SimulationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestForm.resx">
+      <DependentUpon>TestForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="TestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestForm.Designer.cs">
+      <DependentUpon>TestForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnInformed Algorithms\BFS.cs" />
+    <Compile Include="UnInformed Algorithms\DFS.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

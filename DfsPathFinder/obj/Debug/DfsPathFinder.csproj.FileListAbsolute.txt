@@ -1,0 +1,20 @@
+C:\Users\1\Documents\Visual Studio 2008\Projects\DfsPathFinder\DfsPathFinder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2008\Projects\DfsPathFinder\DfsPathFinder\obj\Debug\DfsPathFinder.Cell.resources
+C:\Users\1\Documents\Visual Studio 2008\Projects\DfsPathFinder\DfsPathFinder\obj\Debug\DfsPathFinder.Form1.resources
+C:\Users\1\Documents\Visual Studio 2008\Projects\DfsPathFinder\DfsPathFinder\obj\Debug\DfsPathFinder.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2008\Projects\DfsPathFinder\DfsPathFinder\obj\Debug\DfsPathFinder.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2008\Projects\DfsPathFinder\DfsPathFinder\bin\Debug\DfsPathFinder.exe
+C:\Users\1\Documents\Visual Studio 2008\Projects\DfsPathFinder\DfsPathFinder\bin\Debug\DfsPathFinder.pdb
+C:\Users\1\Documents\Visual Studio 2008\Projects\DfsPathFinder\DfsPathFinder\obj\Debug\DfsPathFinder.exe
+C:\Users\1\Documents\Visual Studio 2008\Projects\DfsPathFinder\DfsPathFinder\obj\Debug\DfsPathFinder.pdb
+C:\Users\1\Desktop\DfsPathFinder\DfsPathFinder\obj\Debug\DfsPathFinder.exe
+C:\Users\1\Desktop\DfsPathFinder\DfsPathFinder\obj\Debug\DfsPathFinder.pdb
+C:\Users\1\Desktop\DfsPathFinder\DfsPathFinder\bin\Debug\DfsPathFinder.exe
+C:\Users\1\Desktop\DfsPathFinder\DfsPathFinder\bin\Debug\DfsPathFinder.pdb
+C:\Users\1\Desktop\DfsPathFinder\DfsPathFinder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1\Desktop\DfsPathFinder\DfsPathFinder\obj\Debug\DfsPathFinder.Cell.resources
+C:\Users\1\Desktop\DfsPathFinder\DfsPathFinder\obj\Debug\DfsPathFinder.Form1.resources
+C:\Users\1\Desktop\DfsPathFinder\DfsPathFinder\obj\Debug\DfsPathFinder.Properties.Resources.resources
+C:\Users\1\Desktop\DfsPathFinder\DfsPathFinder\obj\Debug\DfsPathFinder.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\PathFinder\DfsPathFinder\obj\Debug\DfsPathFinder.exe
+C:\Users\1\Desktop\PathFinder\DfsPathFinder\obj\Debug\DfsPathFinder.pdb
