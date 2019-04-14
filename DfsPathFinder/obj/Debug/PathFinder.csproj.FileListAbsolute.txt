@@ -22,3 +22,16 @@ C:\Users\1\Desktop\PathFinder 0.2\DfsPathFinder\obj\Debug\PathFinder.Properties.
 C:\Users\1\Desktop\PathFinder 0.2\DfsPathFinder\obj\Debug\PathFinder.TestForm.resources
 C:\Users\1\Desktop\PathFinder 0.2\DfsPathFinder\obj\Debug\PathFinder.csproj.GenerateResource.Cache
 C:\Users\1\Desktop\PathFinder 0.2\DfsPathFinder\obj\Debug\PathFinder.exe.licenses
+C:\Users\Dastanzand.M\Source\Repos\pfa\DfsPathFinder\bin\Debug\PathFinder.exe
+C:\Users\Dastanzand.M\Source\Repos\pfa\DfsPathFinder\bin\Debug\PathFinder.pdb
+C:\Users\Dastanzand.M\Source\Repos\pfa\DfsPathFinder\obj\Debug\PathFinder.csprojAssemblyReference.cache
+C:\Users\Dastanzand.M\Source\Repos\pfa\DfsPathFinder\obj\Debug\PathFinder.Cell.resources
+C:\Users\Dastanzand.M\Source\Repos\pfa\DfsPathFinder\obj\Debug\PathFinder.MainForm.resources
+C:\Users\Dastanzand.M\Source\Repos\pfa\DfsPathFinder\obj\Debug\PathFinder.SimulationForm.resources
+C:\Users\Dastanzand.M\Source\Repos\pfa\DfsPathFinder\obj\Debug\PathFinder.Properties.Resources.resources
+C:\Users\Dastanzand.M\Source\Repos\pfa\DfsPathFinder\obj\Debug\PathFinder.TestForm.resources
+C:\Users\Dastanzand.M\Source\Repos\pfa\DfsPathFinder\obj\Debug\PathFinder.csproj.GenerateResource.cache
+C:\Users\Dastanzand.M\Source\Repos\pfa\DfsPathFinder\obj\Debug\PathFinder.exe.licenses
+C:\Users\Dastanzand.M\Source\Repos\pfa\DfsPathFinder\obj\Debug\PathFinder.csproj.CoreCompileInputs.cache
+C:\Users\Dastanzand.M\Source\Repos\pfa\DfsPathFinder\obj\Debug\PathFinder.exe
+C:\Users\Dastanzand.M\Source\Repos\pfa\DfsPathFinder\obj\Debug\PathFinder.pdb

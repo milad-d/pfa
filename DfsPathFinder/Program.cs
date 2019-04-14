@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Windows.Forms;
-
-using System.Collections;
-using PathFinder.Heap;
 using PathFinder.Algorithm_Test;
 using java.util;
 
@@ -33,7 +29,6 @@ namespace PathFinder
 
     public class AlgorithmsTest
     {
-        /* Private: */
         int DISTANCE_BEFORE_CHANGE = 10;// -> Step 25;
         int MAZE_W = 300;
         int MAZE_H = 300;
@@ -42,7 +37,6 @@ namespace PathFinder
         float PROBABILITY_TO_BLOCK_A_CELL = 0.1f;
         static TieBreakingStrategy tie_breaking_strategy = TieBreakingStrategy.HIGHEST_G_VALUES;
 
-        /* Public: */
         public AlgorithmsTest()
         {
             DateTime t0 = DateTime.Now;
