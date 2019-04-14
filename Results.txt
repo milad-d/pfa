@@ -1,0 +1,544 @@
+A*
+Fixed Target
+
+K=1 
+Average count of search is : 1965/100 = 19
+00:00:56.3160989
+RunTime per each search : 28659.5923155216 micro second 
+
+k=5
+Average count of search is : 2243/100 = 22
+00:01:04.5685134
+RunTime per each search : 28786.6756130183 micro second 
+
+k=10
+Average count of search is : 2133/100 = 21
+00:01:02.2753094
+RunTime per each search : 29196.1131739334 micro second 
+
+k=20
+Average count of search is : 1972/100 = 19
+00:00:58.7667416
+RunTime per each search : 29800.5789046653 micro second 
+
+k=50
+Average count of search is : 2063/100 = 20
+00:01:03.2984722
+RunTime per each search : 30682.7301017935 micro second 
+
+Moving Target
+maze count : 10
+k=1
+Average count of search is : 5099/10 = 509
+00:02:28.3860292
+RunTime per each search : 29101.00592273 micro second 
+
+k=5
+Average count of search is : 3843/10 = 384
+00:01:51.6592150
+RunTime per each search : 29055.2211813687 micro second 
+
+k=10
+Average count of search is : 2442/10 = 244
+00:01:10.4448320
+RunTime per each search : 28847.1875511876 micro second 
+Average count of search is : 3323/10 = 332
+00:01:36.0227249
+RunTime per each search : 28896.3962985254 micro second 
+Average count of search is : 2282/10 = 228
+00:01:06.5610224
+RunTime per each search : 29167.8450482033 micro second 
+
+k=20
+Average count of search is : 2196/10 = 219
+00:01:06.4435206
+RunTime per each search : 30256.612295082 micro second 
+
+k=50
+
+//------------------------------------------------------------------------
+GAA*
+Moving Target
+
+k=1
+Average count of search is : 3455/10 = 345
+00:00:15.4127367
+RunTime per each search : 4460.99470332851 micro second 
+
+Average count of search is : 4631/10 = 463
+00:00:21.4440794
+RunTime per each search : 4630.5505074498 micro second 
+
+Average count of search is : 3685/10 = 368
+00:00:16.9152599
+RunTime per each search : 4590.30119402985 micro second 
+
+k=5
+Average count of search is : 4883/10 = 488
+00:00:23.0866046
+RunTime per each search : 4727.95506860537 micro second 
+
+Average count of search is : 4130/10 = 413
+00:00:19.6703022
+RunTime per each search : 4762.78503631961 micro second 
+
+Average count of search is : 5000/10 = 500
+00:00:22.9866031
+RunTime per each search : 4597.32062 micro second 
+
+k=10
+Average count of search is : 2292/10 = 229
+00:00:11.0126692
+RunTime per each search : 4804.8294938918 micro second 
+
+Average count of search is : 1992/10 = 199
+00:00:09.6138976
+RunTime per each search : 4826.25381526104 micro second 
+
+Average count of search is : 2336/10 = 233
+00:00:11.3726747
+RunTime per each search : 4868.4395119863 micro second 
+
+k=20
+
+Average count of search is : 2498/10 = 249
+00:00:12.0476850
+RunTime per each search : 4822.9323458767 micro second 
+
+Average count of search is : 2693/10 = 269
+00:00:13.1314517
+RunTime per each search : 4876.14248050501 micro second 
+
+Average count of search is : 3243/10 = 324
+00:00:15.8189929
+RunTime per each search : 4877.88865248227 micro second 
+
+Average count of search is : 2911/10 = 291
+00:00:14.3027197
+RunTime per each search : 4913.33552043971 micro second 
+
+k=50
+--------------------------------------------------------
+maze size 100
+Fixed Target
+
+k=1
+
+Average count of search is : 2163/100 = 21
+00:00:13.5339579
+RunTime per each search : 6257.03092926491 micro second 
+
+Average count of search is : 2108/100 = 21
+00:00:12.2476882
+RunTime per each search : 5810.09876660342 micro second 
+
+Average count of search is : 2165/100 = 21
+00:00:12.3464397
+RunTime per each search : 5702.74351039261 micro second 
+
+k=5
+
+Average count of search is : 2089/100 = 20
+00:00:12.1939373
+RunTime per each search : 5837.21268549545 micro second 
+
+Average count of search is : 2141/100 = 21
+00:00:12.6626945
+RunTime per each search : 5914.38323213452 micro second 
+
+Average count of search is : 1945/100 = 19
+00:00:11.5651777
+RunTime per each search : 5946.10678663239 micro second 
+
+k=10
+
+Average count of search is : 2094/100 = 20
+00:00:12.1689369
+RunTime per each search : 5811.33567335244 micro second 
+
+Average count of search is : 2103/100 = 21
+00:00:12.2839387
+RunTime per each search : 5841.15011887779 micro second 
+
+Average count of search is : 2102/100 = 21
+00:00:12.3001889
+RunTime per each search : 5851.65980019029 micro second 
+
+k=20
+
+Average count of search is : 2095/100 = 20
+00:00:12.3089390
+RunTime per each search : 5875.38854415274 micro second 
+
+Average count of search is : 2088/100 = 20
+00:00:12.4164407
+RunTime per each search : 5946.5712164751 micro second 
+
+Average count of search is : 2075/100 = 20
+00:00:12.6476943
+RunTime per each search : 6095.27436144578 micro second 
+
+k=50
+
+Average count of search is : 1926/100 = 19
+00:00:11.9401834
+RunTime per each search : 6199.47217030114 micro second 
+
+Average count of search is : 2154/100 = 21
+00:00:12.5001920
+RunTime per each search : 5803.2460538533 micro second 
+
+Average count of search is : 1967/100 = 19
+00:00:12.8239470
+RunTime per each search : 6519.54600915099 micro second 
+
+Average count of search is : 2054/100 = 20
+00:00:12.2914388
+RunTime per each search : 5984.14741966894 micro second 
+
+Average count of search is : 1935/100 = 19
+00:00:11.6364288
+RunTime per each search : 6013.65829457364 micro second 
+
+//-----------------------------------------------------------------------------------------------------------------------------------------
+BFS : Solve() Time Of algorithm in 50, 100, 200 maze Size
+
+SIZE : 50
+Maze count = 100 -----------------------------------
+ Total Time : 00:00:05.7375881
+RunTime per each search : 57375.881 micro second 
+
+ Total Time : 00:00:07.1076091
+RunTime per each search : 71076.091 micro second 
+
+ Total Time : 00:00:07.9226217
+RunTime per each search : 79226.217 micro second 
+
+mean : 69226.063
+----------------------------------------------------
+Maze count = 10 ------------------------------------
+ Total Time : 00:00:01.0350159
+RunTime per each search : 103501.59 micro second 
+
+ Total Time : 00:00:00.6675103
+RunTime per each search : 66751.03 micro second 
+
+ Total Time : 00:00:00.7387613
+RunTime per each search : 73876.13 micro second 
+
+Total Time : 00:00:01.0187656
+RunTime per each search : 101876.56 micro second 
+
+ Total Time : 00:00:00.3787558
+RunTime per each search : 37875.58 micro second 
+
+mean : 76776.178
+----------------------------------------------------
+
+SIZE : 100
+Maze count = 100 -----------------------------------
+ Total Time : 00:02:17.9046182
+RunTime per each search : 1379046.182 micro second 
+
+ Total Time : 00:01:59.4280844
+RunTime per each search : 1194280.844 micro second 
+
+ Total Time : 00:01:40.9915582
+RunTime per each search : 1009915.582 micro second 
+
+mean : 1194414.2026666666666666666666667
+----------------------------------------------------
+Maze count = 10 ------------------------------------
+ Total Time : 00:00:04.6000706
+RunTime per each search : 460007.06 micro second 
+
+
+ Total Time : 00:00:13.4077060
+RunTime per each search : 1340770.6 micro second 
+
+
+ Total Time : 00:00:15.5327386
+RunTime per each search : 1553273.86 micro second 
+
+
+ Total Time : 00:00:17.0627621
+RunTime per each search : 1706276.21 micro second 
+
+
+ Total Time : 00:00:13.3877057
+RunTime per each search : 1338770.57 micro second 
+
+mean : 1279819.66
+----------------------------------------------------
+
+Size : 200
+
+Maze count = 10 ------------------------------------
+ Total Time : 00:03:09.3004076
+RunTime per each search : 18930040.76 micro second 
+
+ Total Time : 00:02:42.1824910
+RunTime per each search : 16218249.1 micro second 
+
+ Total Time : 00:03:37.8608463
+RunTime per each search : 21786084.63 micro second 
+
+ Total Time : 00:03:40.1671317
+RunTime per each search : 22016713.17 micro second 
+
+ Total Time : 00:03:09.1841559
+RunTime per each search : 18918415.59 micro second 
+
+mean : 19573900.65
+----------------------------------------------------
+//---------------------------------------------------------------------------------------------End BFS Solve() RunTime Test
+A* : Solve() Time Of algorithm in 50, 100, 200,400 maze Size
+
+Size : 50
+Maze count = 10 ------------------------------------
+
+ Total Time : 00:00:00.0450007
+RunTime per each search : 4500.07 micro second 
+
+ Total Time : 00:00:00.0387506
+RunTime per each search : 3875.06 micro second 
+
+ Total Time : 00:00:00.0562508
+RunTime per each search : 5625.08 micro second 
+
+ Total Time : 00:00:00.0537508
+RunTime per each search : 5375.08 micro second 
+
+ Total Time : 00:00:00.0550008
+RunTime per each search : 5500.08 micro second 
+
+mean : 4975.074
+----------------------------------------------------
+
+Size : 100
+Maze count = 10 ------------------------------------
+
+ Total Time : 00:00:00.0487507
+RunTime per each search : 4875.07 micro second 
+
+ Total Time : 00:00:00.0650010
+RunTime per each search : 6500.1 micro second 
+
+ Total Time : 00:00:00.0712511
+RunTime per each search : 7125.11 micro second 
+
+ Total Time : 00:00:00.0662510
+RunTime per each search : 6625.1 micro second 
+
+ Total Time : 00:00:00.0762512
+RunTime per each search : 7625.12 micro second 
+
+mean : 6550.1
+----------------------------------------------------
+
+Size : 200
+Maze count = 10 ------------------------------------
+
+ Total Time : 00:00:00.1937530
+RunTime per each search : 19375.3 micro second 
+
+ Total Time : 00:00:00.2225034
+RunTime per each search : 22250.34 micro second 
+
+ Total Time : 00:00:00.2212534
+RunTime per each search : 22125.34 micro second 
+
+ Total Time : 00:00:00.2162533
+RunTime per each search : 21625.33 micro second 
+
+ Total Time : 00:00:00.2100032
+RunTime per each search : 21000.32 micro second 
+
+mean : 21275.326
+----------------------------------------------------
+
+Size : 400
+Maze count = 10 ------------------------------------
+
+
+ Total Time : 00:00:00.8162626
+RunTime per each search : 81626.26 micro second 
+
+ Total Time : 00:00:00.8750134
+RunTime per each search : 87501.34 micro second 
+
+ Total Time : 00:00:00.8475130
+RunTime per each search : 84751.3 micro second 
+
+ Total Time : 00:00:00.7987623
+RunTime per each search : 79876.23 micro second 
+
+ Total Time : 00:00:00.8212626
+RunTime per each search : 82126.26 micro second 
+
+mean : 83176.278
+----------------------------------------------------
+//-------------------------------------------------------------------------------------------End A* Solve() RunTime Test
+GAA* : Solve() Time Of algorithm in 50, 100, 200,400 maze Size
+
+Size : 50
+Maze count = 10 ------------------------------------
+
+ Total Time : 00:00:00.0537509
+RunTime per each search : 5375.09 micro second 
+
+ Total Time : 00:00:00.0300005
+RunTime per each search : 3000.05 micro second 
+
+ Total Time : 00:00:00.0562509
+RunTime per each search : 5625.09 micro second 
+
+ Total Time : 00:00:00.0537509
+RunTime per each search : 5375.09 micro second 
+
+ Total Time : 00:00:00.0512508
+RunTime per each search : 5125.08 micro second 
+
+mean : 4900.08
+----------------------------------------------------
+
+Size : 100
+Maze count = 10 ------------------------------------
+
+  Total Time : 00:00:00.0787512
+RunTime per each search : 7875.12 micro second 
+
+ Total Time : 00:00:00.0525009
+RunTime per each search : 5250.09 micro second 
+
+ Total Time : 00:00:00.0587509
+RunTime per each search : 5875.09 micro second 
+
+ Total Time : 00:00:00.0687510
+RunTime per each search : 6875.1 micro second 
+
+ Total Time : 00:00:00.0675011
+RunTime per each search : 6750.11 micro second 
+
+mean : 6525.102
+----------------------------------------------------
+
+Size : 200
+Maze count = 10 ------------------------------------
+ Total Time : 00:00:00.2012531
+RunTime per each search : 20125.31 micro second 
+
+ Total Time : 00:00:00.1762527
+RunTime per each search : 17625.27 micro second 
+
+ Total Time : 00:00:00.1812528
+RunTime per each search : 18125.28 micro second 
+
+ Total Time : 00:00:00.1937529
+RunTime per each search : 19375.29 micro second 
+
+ Total Time : 00:00:00.2050032
+RunTime per each search : 20500.32 micro second 
+
+mean : 19150.294
+----------------------------------------------------
+
+Size : 400
+Maze count = 10 ------------------------------------
+
+ Total Time : 00:00:00.7750119
+RunTime per each search : 77501.19 micro second 
+
+ Total Time : 00:00:00.8400129
+RunTime per each search : 84001.29 micro second 
+
+ Total Time : 00:00:00.7337613
+RunTime per each search : 73376.13 micro second 
+
+ Total Time : 00:00:00.8025124
+RunTime per each search : 80251.24 micro second 
+
+ Total Time : 00:00:00.7637617
+RunTime per each search : 76376.17 micro second 
+
+mean : 78301.204
+----------------------------------------------------
+
+DFS Solve() RunTime Test: 
+Size : 50
+
+ Total Time : 00:13:41.3726161
+RunTime per each search : 82137261.61 micro second 
+
+ Total Time : 00:22:32.0820243
+RunTime per each search : 135208202.43 micro second 
+
+ Total Time : 00:16:57.7218820
+RunTime per each search : 101772188.2 micro second 
+
+mean : 106372550.74666666666666666666667
+
+...
+
+
+
+//------------------------------------------End of DFS Solve() RunTime Test-------------------------------------\\
+
+D*Lite Solve() Runtime Test
+
+Size : 50
+ Total Time : 00:00:36.6855635
+RunTime per each search : 7337112.7 micro second 
+
+ Total Time : 00:00:22.0490886
+RunTime per each search : 4409817.72 micro second 
+
+ Total Time : 00:00:15.8302431
+RunTime per each search : 3166048.62 micro second 
+
+ Total Time : 00:00:28.2541840
+RunTime per each search : 5650836.8 micro second 
+
+ Total Time : 00:00:21.4515795
+RunTime per each search : 4290315.9 micro second 
+
+mean: 4970826.348
+
+Size : 100
+ Total Time : 00:01:19.4624705
+RunTime per each search : 15892494.1 micro second 
+
+ Total Time : 00:01:26.4813283
+RunTime per each search : 17296265.66 micro second 
+
+ Total Time : 00:01:13.0811226
+RunTime per each search : 14616224.52 micro second 
+
+ Total Time : 00:01:04.0484838
+RunTime per each search : 12809696.76 micro second 
+
+ Total Time : 00:00:58.0646418
+RunTime per each search : 11612928.36 micro second 
+
+mean: 14445521.88
+
+Size : 200
+ Total Time : 00:05:58.9167629
+RunTime per each search : 71783352.58 micro second 
+
+ Total Time : 00:02:52.7214030
+RunTime per each search : 34544280.6 micro second 
+
+ Total Time : 00:01:21.1074958
+RunTime per each search : 16221499.16 micro second 
+
+ Total Time : 00:02:32.7985969
+RunTime per each search : 30559719.38 micro second 
+
+ Total Time : 00:05:57.7804954
+RunTime per each search : 71556099.08 micro second 
+
+mean: 44932990.16
+
+
+
