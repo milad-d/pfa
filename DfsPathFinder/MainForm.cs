@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Text;
 using System.Windows.Forms;
 
 namespace PathFinder
@@ -19,11 +14,11 @@ namespace PathFinder
         {
             try
             {
-                System.Diagnostics.Process.Start("Http://pfa.codeplex.com");
+                System.Diagnostics.Process.Start("https://github.com/milad-d/pfa");
             }
             catch (Exception)
             {
-                //throw;
+                // ignored
             }
         }
 
@@ -31,40 +26,23 @@ namespace PathFinder
         {
             try
             {
-                System.Diagnostics.Process.Start("Http://pfa.codeplex.com");
+                System.Diagnostics.Process.Start("https://github.com/milad-d/pfa");
             }
             catch (Exception)
             {
-                //throw;
             }
         }
 
         private void buttonSimulationForm_Click(object sender, EventArgs e)
         {
-            try
-            {
-                SimulationForm form = new SimulationForm();
-                form.ShowDialog();
-            }
-            catch (Exception)
-            {
-                
-                throw;
-            }
+            var form = new SimulationForm();
+            form.ShowDialog();
         }
 
         private void buttonTestForm_Click(object sender, EventArgs e)
         {
-            try
-            {
-                TestForm form = new TestForm();
-                form.ShowDialog();
-            }
-            catch (Exception)
-            {
-
-                throw;
-            }
+            var form = new TestForm();
+            form.ShowDialog();
         }
     }
 }
