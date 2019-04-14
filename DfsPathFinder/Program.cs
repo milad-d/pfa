@@ -28,10 +28,6 @@ namespace PathFinder
             /*Heap.BinaryHeapTest h = new PathFinder.Heap.BinaryHeapTest();
             h.Test();
             System.Console.Read();*/
-
-
-
-
         }
     }
 
